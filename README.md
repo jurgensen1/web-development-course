@@ -43,6 +43,7 @@ Video Title: FlexBox: How to use in Web Designing (2018)
 Basic description: Flexbox is a great CSS tool for manipulating HTML pages with boxes.  
 Link: https://www.youtube.com/watch?v=0Azm2cyRmFk  
 This video is thanks to  GTCoding (https://www.youtube.com/channel/UCqXs3o7aLdnJfXEN3OVgafw). 10/10 recommend.  
+N.B.: the self-directed-application work will be a flexbox demo. (Coming soon)
 
 ### 4. Visual-Studio-Code Topic: Emmet  
 Video Title: Write Faster HTML and CSS with Emmet
