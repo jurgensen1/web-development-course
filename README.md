@@ -40,7 +40,7 @@ This video is thanks to freeCodeCamp and Gwen Faraday (https://www.youtube.com/c
 
 ### 3. HTML/CSS topic: flexbox
 Video Title: FlexBox: How to use in Web Designing (2018)  
-Basic description: "This video teaches you the basic concepts of FlexBox." Flexbox is great CSS tool for manipulating HTML pages with boxes.  
+Basic description: Flexbox is a great CSS tool for manipulating HTML pages with boxes.  
 Link: https://www.youtube.com/watch?v=0Azm2cyRmFk  
 This video is thanks to  GTCoding (https://www.youtube.com/channel/UCqXs3o7aLdnJfXEN3OVgafw). 10/10 recommend.  
 
