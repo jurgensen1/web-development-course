@@ -1,6 +1,6 @@
 # Web Development Course 
 This is a structured collection of free resources — YouTube videos — used in the author's self-directed, web development bootcamp, which is still underway. 
-It is structured in a fairly standard way: It will have both front-end and back-end topics.  
+It is structured in a fairly standard way: it will have both front-end and back-end topics.  
 
 It will probably go beyond and into more advanced topics, but for now the author is learning the basics.  
 In addition, the author's follow-along work and self-directed-application work will be exhibited.
