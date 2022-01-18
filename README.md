@@ -5,7 +5,7 @@ It is structured in a fairly standard way: it will have both front-end and back-
 It will probably go beyond and into more advanced topics, but for now the author is learning the basics.  
 In addition, the author's follow-along work and self-directed-application work will be exhibited.
 
-## In no particular order here are all the topics the author wants to cover:
+## In no particular order, here are all the topics the author wants to cover:
 
 ### Front-End Topics
 HTML  
