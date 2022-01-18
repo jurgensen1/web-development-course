@@ -30,7 +30,8 @@ WordPress
 Video Title: How to Make a Custom Website from Scratch using WordPress (Theme Development) - 2019 Tutorial  
 Basic description: intro including HTML, CSS, JavaScript, PHP, WordPress, local WordPress template creation, among other topics.    
 Link: https://www.youtube.com/watch?v=KibbYf9avko  
-This video is thanks to freeCodeCamp and GTcoding. 10/10 recommend.  
+This video is thanks to freeCodeCamp and GTcoding. 10/10 recommend.
+Implementation of the work can be found at stillhere.site
 
 ### 2. Git and Github  
 Video Title: Git and GitHub for Beginners - Crash Course  
